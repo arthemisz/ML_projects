@@ -1,3 +1,3 @@
 # ML_projects
 
-# Assignments 
+*Assignments and my projects
